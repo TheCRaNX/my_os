@@ -1,5 +1,9 @@
 #my_os
 
+Based on tutorial from https://github.com/nanobyte-dev
+
+Link to tutorial: https://www.youtube.com/watch?v=9t-SPC7Tczc&ab_channel=nanobyte
+
 ## Requirements
 
 ### Main
