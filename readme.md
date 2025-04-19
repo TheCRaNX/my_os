@@ -16,10 +16,14 @@ To run the operating system following software is needed:
 - nasm - assembler
 - qemu
 
-Commands:
+Install using:
 
 apt install make nasm qemu
 snap install micro --classic
+
+Start using:
+
+./run.sh
 
 ### Debug
 
@@ -28,6 +32,10 @@ To run the debugger for the operating system following software is needed:
 - bochs
 - vgabios
 
-Commands:
+Install using:
 
 apt install bochs bochs-sdl bochsbios vgabios
+
+Start using:
+
+./debug.sh
